@@ -1,0 +1,27 @@
+[
+  {
+    "VendorCode": 1,
+    "ProductName": "Кирпич",
+    "ProductPrice": 199
+  },
+  {
+    "VendorCode": 2,
+    "ProductName": "Газобетон",
+    "ProductPrice": 140
+  },
+  {
+    "VendorCode": 3,
+    "ProductName": "Дерево",
+    "ProductPrice": 100
+  },
+  {
+    "VendorCode": 4,
+    "ProductName": "Сталь",
+    "ProductPrice": 300
+  },
+  {
+    "VendorCode": 5,
+    "ProductName": "Арболит",
+    "ProductPrice": 50
+  }
+]
